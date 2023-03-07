@@ -37,11 +37,10 @@ main: #简历主要内容，
   content:
   - title: 编程技能
     items:
-    - Java
-    - Python
-    - C#
-    - DB
-    detail:"Python: Flask,TensorFlow,Polars\n=C#: .net framework\nDB: MySql,SQLServer,Hbase"
+    - Java-SpringBoot,Vue
+    - Python-Flask
+    - C#-.net
+    - DB-Mysql,SQLServer,Hbase
     
 - type: experience
   name: 经验
