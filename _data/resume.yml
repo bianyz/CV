@@ -37,14 +37,14 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     #items: #itmems 可以小块的方式显示
-    #- Java
-    #- Pythhon
-    #- C#
-    list :
-     - Java  Spring Boot,Vue
-     - Python  Flask, TensorFlow
-     - DB  MySql, SQLServer, Hbase
-     - C#  .net framework
+    - Java
+    - Pythhon
+    - C#
+    #list :
+    # - Java  Spring Boot,Vue
+    # - Python  Flask, TensorFlow
+    # - DB  MySql, SQLServer, Hbase
+    # - C#  .net framework
 
 - type: experience
   name: 经验
