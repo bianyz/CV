@@ -37,10 +37,10 @@ main: #简历主要内容，
   content:
   - title: Java
     list: #itmems 可以小块的方式显示
-    - "Java     Spring Boot,Vue"
-    - "Python   Flask,TensorFlow,Polars"  
-    - "C#       .net framework"
-    - "DB       MySql,SQLServer,Hbase"
+    - Java     Spring Boot,Vue
+    - Python   Flask,TensorFlow,Polars
+    - C#       .net framework"
+    - DB       MySql,SQLServer,Hbase
 
 - type: experience
   name: 经验
