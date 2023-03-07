@@ -30,7 +30,7 @@ main: #简历主要内容，
   - title: 山东建筑大学
     duration: "2019年 - 2023年"
     sub: 本科
-    detail: 信息管理与信息系统学士学位
+    detail: 信息管理与信息系统
 
 - type: others
   name: 编程技能
