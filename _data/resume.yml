@@ -3,8 +3,8 @@
 
 title: "个人简历"
 lang: "zh" #语言设置 zh表示中文 en  表示英语
-name: "边易洲"
-jobtitle:  #可空不显示
+name: "个人简历"
+jobtitle: "边易洲"  #可空不显示
 photo: "assets/img/selfGraph.jpg" #照片可空，不显示
 
 #联系方式
@@ -41,11 +41,7 @@ main: #简历主要内容，
     - Python
     - C#
     - DB
-  content:
-  - "Python: Flask,TensorFlow,Polars"
-  - "C#: .net framework"
-  - "DB: MySql,SQLServer,Hbase"
-
+    detail:"Python: Flask,TensorFlow,Polars\n=C#: .net framework\nDB: MySql,SQLServer,Hbase"
     
 - type: experience
   name: 经验
