@@ -37,8 +37,10 @@ main: #简历主要内容，
   content:
   - title: Java
     items: #itmems 可以小块的方式显示
-    - Spring Boot
-    - Vue  
+    - "Java     Spring Boot,Vue"
+    - "Python   Flask,TensorFlow,Polars"  
+    - "C#       .net framework"
+    - "DB       MySql,SQLServer,Hbase"
   - title: Python
     items: 
     - Flask
