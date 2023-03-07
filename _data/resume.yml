@@ -36,24 +36,11 @@ main: #简历主要内容，
   name: 编程技能
   content:
   - title: Java
-    items: #itmems 可以小块的方式显示
+    list: #itmems 可以小块的方式显示
     - "Java     Spring Boot,Vue"
     - "Python   Flask,TensorFlow,Polars"  
     - "C#       .net framework"
     - "DB       MySql,SQLServer,Hbase"
-  - title: Python
-    items: 
-    - Flask
-    - TensorFlow
-    - Polars
-  - title: C#
-    items:
-    - .net framework
-  - title: DB
-    items: #itmems 可以小块的方式显示
-    - MySql
-    - SQLServer
-    - Hbase
 
 - type: experience
   name: 经验
