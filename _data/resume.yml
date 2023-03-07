@@ -36,7 +36,7 @@ main: #简历主要内容，
   name: 技能
   content:
   - title: 编程能力
-    #items: #itmems 可以小块的方式显示
+    items: #itmems 可以小块的方式显示
     - Java  Spring Boot,Vue
     - Python  Flask, TensorFlow
     - C#  .net framework
