@@ -33,12 +33,14 @@ main: #简历主要内容，
     detail: 信息管理与信息系统
 
 - type: others
-  name: 编程技能
+  name: 技能
   content:
-  - Java    Spring Boot,Vue
-  - Python  Flask,TensorFlow,Polars
-  - C#      .net framework
-  - DB      MySql,SQLServer,Hbase
+  - title: 编程技能
+    list:
+    - Java    Spring Boot,Vue
+    - Python  Flask,TensorFlow,Polars
+    - C#      .net framework
+    - DB      MySql,SQLServer,Hbase
 
 - type: experience
   name: 经验
@@ -64,7 +66,7 @@ main: #简历主要内容，
     #可以设置open默认展开
 
 - type: projects
-  name: 项目经历
+  name: 项目
   content:
   - title: 装配式建筑在线销售平台
     duration: 2020年3月 - 2020年6月
