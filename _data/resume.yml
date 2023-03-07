@@ -37,9 +37,9 @@ main: #简历主要内容，
   content:
   - title: 编程技能
     items:
-    - Java-SpringBoot,Vue
-    - Python-Flask
-    - C#-.net
+    - Java-Spring Boot,Vue
+    - Python-Flask,TensorFlow
+    - C#-.net Framework
     - DB-Mysql,SQLServer,Hbase
     
 - type: experience
