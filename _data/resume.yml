@@ -41,6 +41,7 @@ main: #简历主要内容，
     - Python
     - C#
     - DB
+  content:
   - "Python: Flask,TensorFlow,Polars"
   - "C#: .net framework"
   - "DB: MySql,SQLServer,Hbase"
