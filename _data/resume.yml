@@ -35,15 +35,15 @@ main: #简历主要内容，
 - type: skills
   name: 技能
   content:
-  - detail: Java
+  - Java
     items:
     - Spring Boot
     - Vue
-  - title: Python
+  - Python
   - detail: "Python Flask,TensorFlow,Polars"
-  - title: C#
+  - C#
   - detail: ".net framework"
-  - title: DB
+  - DB
   - detail: "MySql,SQLServer,Hbase"
 
     
