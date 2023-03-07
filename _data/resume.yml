@@ -35,20 +35,17 @@ main: #简历主要内容，
 - type: skills
   name: 技能
   content:
-  - title: Java
-  - detail: "Java Spring Boot,Vue"
+  - detail: Java
+    items:
+    - Spring Boot
+    - Vue
   - title: Python
   - detail: "Python Flask,TensorFlow,Polars"
   - title: C#
   - detail: ".net framework"
   - title: DB
   - detail: "MySql,SQLServer,Hbase"
-  - title: 获得奖项
-    list:
-    - 2019年12月 ACM-ICPC校赛二等奖
-    - 2019年度   优秀团员
-    - 2020年9月  山东省“互联网+”创新创业大赛三等奖
-    - 2022年4月  正大杯大学生市场调查与分析大赛山东赛区三等奖
+
     
 - type: experience
   name: 经验
