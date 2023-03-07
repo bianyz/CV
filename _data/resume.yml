@@ -33,14 +33,25 @@ main: #简历主要内容，
     detail: 信息管理与信息系统学士学位
 
 - type: skills
-  name: 技能
+  name: 编程技能
   content:
-  - title: 编程能力
+  - title: Java
     items: #itmems 可以小块的方式显示
-    - Java  Spring Boot,Vue
-    - Python  Flask, TensorFlow
-    - C#  .net framework
-    - DB  MySql, SQLServer, Hbase
+    - Spring Boot
+    - Vue  
+  - title: Python
+    items: 
+    - Flask
+    - TensorFlow
+    - Polars
+  - title: C#
+    items:
+    - .net framework
+  - title: DB
+    items: #itmems 可以小块的方式显示
+    - MySql
+    - SQLServer
+    - Hbase
 
 - type: experience
   name: 经验
