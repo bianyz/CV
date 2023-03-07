@@ -32,7 +32,7 @@ main: #简历主要内容，
     sub: 本科
     detail: 信息管理与信息系统学士学位
 
-- type: skills
+- type: others
   name: 编程技能
   content:
   - title: Java
