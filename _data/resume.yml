@@ -4,7 +4,7 @@
 title: "个人简历"
 lang: "zh" #语言设置 zh表示中文 en  表示英语
 name: "边易洲"
-jobtitle: "意向工作地点：杭州"  #可空不显示
+jobtitle: "浙江 杭州"  #可空不显示
 photo: "assets/img/selfGraph.jpg" #照片可空，不显示
 
 #联系方式
